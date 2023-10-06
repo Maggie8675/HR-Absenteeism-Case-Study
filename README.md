@@ -29,7 +29,7 @@ Given access to a Human Resources Absenteeism dataset, the task is to utilize th
 - 78% of employees are smokers
 - 62% of employees had the disciplinary status of "obeyed"
 - Drinkers took the most unjustified leave 
-- Reason 15 (medical reason) for absenteeism only happened on Mondays and Fridays
+- Employees who were obese constituted just 25% of the workforce, yet accounted for 33% of all medical leave cases.
 - Employees with four children tended to take more leave compared to those with fewer children.
 - Obese employees made up only a quarter of employees but a third of all medical leave
 
