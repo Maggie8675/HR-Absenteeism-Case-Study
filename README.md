@@ -5,6 +5,8 @@ The manager of a medium-sized company has observed a decline in team performance
 
 ## Overview
 
+![Screenshot 2023-10-06 150612](https://github.com/Maggie8675/HR-Absenteeism-Case-Study/assets/132453332/09e6c08c-c5d8-489a-9c10-5e17f72b559b)
+
 Given access to a Human Resources Absenteeism dataset, the task is to utilize this dataset to construct a Power BI dashboard. This dashboard will serve as a tool to extract insights and respond to inquiries related to employee absenteeism.
 ![HR case study overview](https://github.com/Maggie8675/HR-Absenteeism-Case-Study/assets/132453332/3c1ddfd1-d057-4935-a905-a11b6c835a0e)
 
