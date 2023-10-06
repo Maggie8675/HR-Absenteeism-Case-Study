@@ -19,4 +19,4 @@ Given access to a Human Resources Absenteeism dataset, the task is to utilize th
 - DAX
 
 ## Output
-
+![HR Case study absenteeism Power bi Dashboard](https://github.com/Maggie8675/HR-Absenteeism-Case-Study/assets/132453332/acf64345-e1d4-4bd4-8751-09fdf0c8968e)
