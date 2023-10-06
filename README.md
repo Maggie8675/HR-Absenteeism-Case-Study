@@ -29,20 +29,20 @@ Given access to a Human Resources Absenteeism dataset, the task is to utilize th
 - 78% of employees are smokers
 - 62% of employees had the disciplinary status of "obeyed"
 - Drinkers took the most unjustified leave 
-- Employees who were obese constituted just 25% of the workforce, yet accounted for 33% of all medical leave cases.
-- Employees with four children tended to take more leave compared to those with fewer children.
-- Obese employees made up only a quarter of employees but a third of all medical leave
+- Obese employees, comprising 25% of the workforce, accounted for 33% of medical leave.
+- Employees with four children took more leave than those with fewer children.
+- Obese employees, a quarter of the workforce, represented a third of medical leave cases.
 
 ## Recommendations
 
-- Minimize or distribute the workload more evenly during the spring season.
-- Foster engagement and offer assistance to employees who experience frequent absences.
-- Encourage moderation in alcohol consumption.
-- Enhance support for employees with four children, potentially by offering childcare services.
-- Offer incentives for employees who maintain good attendance records.
-- Encourage open communication channels for employees to express their concerns and needs.
-- Develop a comprehensive employee support system to address various personal and family challenges.
-- Continuously monitor and analyze absenteeism data to identify emerging trends and take proactive measures.
-- Collaborate with healthcare providers to offer wellness programs and health check-ups to employees.
-- Promote team-building activities and a supportive work environment to boost employee morale and reduce absenteeism.
+- Equalize spring workload distribution.
+- Support and engage employees with frequent absences.
+- Promote responsible alcohol consumption.
+- Enhance assistance for employees with four children, possibly through childcare services.
+- Reward excellent attendance.
+- Foster open communication for employee concerns.
+- Establish comprehensive support for personal and family challenges.
+- Monitor absenteeism data proactively.
+- Partner with healthcare providers for wellness programs and check-ups.
+- Encourage team-building and a supportive workplace to reduce absenteeism.
 
